@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-experimental
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+tiktoken
+pypdf
+docx2txt
+unstructured
+sentence-transformers
